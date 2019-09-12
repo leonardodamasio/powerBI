@@ -13,7 +13,7 @@ Você também encontrará as bases utilizadas para realizar cada dashboard.
 
 Sendo assim, fique a vontade para testá-los :)
 
-Todos os dashboards foram feitos através da do **Microsoft Power BI**.
+Todos os dashboards foram feitos através do **Microsoft Power BI**.
 
 Qualquer dúvida, favor entrar em contato:
 
